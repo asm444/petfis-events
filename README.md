@@ -1,0 +1,2 @@
+# petfis-events
+Esse projeto é sem dúvidas um marco na história da confecção de certificados de qualquer evento realizado pelo Grupo PET-Física UEL, isto é, um paradigma. A confecção de certificados é uma tarefa que exige muito empenho, repetição e um trabalho minuncioso que pode levar de 1 a 3 meses para terminar. Mas com a utilização do meu projeto de uma biblioteca como uma ferramenta para facilitar a confecção de certificados levaria no máximo 20 min. Espero que os usuários aproveitem!
